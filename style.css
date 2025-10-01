@@ -1014,6 +1014,9 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   margin-top: 20px;
   color: #ffffff;
   animation-delay: 8s;
+  font-family: 'Poppins', Arial, sans-serif; /* clean modern font */
+  font-weight: 400; /* normal weight */
+  letter-spacing: 0.5px; /* improves readability */
   
 }
 
